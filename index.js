@@ -35,4 +35,4 @@ function validate(){
             form.submit();
         }, 1500);
     }
-}
+}//
